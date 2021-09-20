@@ -11,9 +11,7 @@ form.addEventListener('submit', function(event){
 }
 console.log(arr)
 })
-function sendData(num1,num2){
-    console.log(num1 + num2);
-}
+
 
 // $('#form').on('submit', function(){
 //     var arr = $(this).serializeArray();
